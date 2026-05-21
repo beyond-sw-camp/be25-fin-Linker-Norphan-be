@@ -72,7 +72,7 @@
 
 ---
 
-# 2.  요구사항 명세서
+# 3.  요구사항 명세서
 ![](img/Srs.png)<br/>
 🔗[ 요구사항 명세서 ](https://docs.google.com/spreadsheets/d/1_25LySE-rzxbZtjh1W5OwWTwqWKSgGlhcC5KLCODOp4/edit?gid=0#gid=0)
 <br/><br/><br/>
