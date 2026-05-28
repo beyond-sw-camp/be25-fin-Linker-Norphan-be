@@ -92,6 +92,8 @@
 ---
 
 # 6.  시스템 아키텍처
+![](docs/images/시스템_아키텍처.png)<br/>
+🔗[ 시스템 아키텍처 ](https://github.com/beyond-sw-camp/be25-fin-Linker-Norphan-be/blob/main/docs/images/%EC%8B%9C%EC%8A%A4%ED%85%9C_%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.png)
 <br/><br/><br/>
 
 ---
